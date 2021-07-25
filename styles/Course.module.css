@@ -1,0 +1,25 @@
+.author {
+    font-size: medium;
+}
+
+.container {
+    background-color: #282c34;
+    border-bottom: #f92672 1px solid;
+}
+.description {
+    padding: 20px;
+}
+
+.link {
+    color: #9ccc65;
+}
+.title {
+    display: flex;
+    align-items: flex-end;
+}
+
+.titleText {
+    color: #e2b93d;
+    font-size: larger;
+    margin: 10px;
+}

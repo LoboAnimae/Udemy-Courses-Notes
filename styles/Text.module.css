@@ -1,0 +1,25 @@
+.title {
+    font-size: 3rem;
+    color: #f92672;
+    text-decoration: underline overline;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 2rem;
+    color: #e2b93d;
+    text-decoration: underline overline dotted;
+}
+
+.heading {
+    font-size: 1.7rem;
+    color: #7e57c2;
+}
+
+.text {
+    font-size: 1rem;
+    color: white;
+    word-break: normal;
+    text-align: justify;
+    text-justify: newspaper;
+}

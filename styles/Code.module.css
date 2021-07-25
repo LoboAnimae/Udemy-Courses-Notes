@@ -1,0 +1,13 @@
+.code {
+    background-color: #282c34;
+    border-radius: 10px;
+    overflow: hidden;
+    min-width: fit-content;
+    padding: 10px;
+}
+
+.codeTitle {
+    background-color: #33373f;
+    margin: -10px;
+    padding: 10px;
+}

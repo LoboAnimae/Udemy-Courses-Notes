@@ -1,0 +1,12 @@
+.unorderedList {
+    color: #f92672;
+    list-style-type: none;
+    text-decoration: underline;
+}
+.orderedList {
+    color: white;
+}
+
+.item {
+    text-decoration-color: #e2b93d;
+}
